@@ -51,7 +51,7 @@ const Navbar = () => {
             ></path>
           </svg>
           <a
-            href="https://wa.me/919380393651/?text=Hi Sharan,"
+            href="https://wa.me/918793952437/?text=Hi Ketan,"
             target="_blank"
             className="message-sub-text flex items-center"
           >
@@ -69,7 +69,7 @@ const Navbar = () => {
               ></path>
             </svg>
           </a>
-          <a target="_blank" href="https://www.linkedin.com/in/sharan-js">
+          <a target="_blank" href="https://www.linkedin.com/in/ketan-paunikar/">
             <svg
               className="lg:mr-[5px]"
               xmlns="http://www.w3.org/2000/svg"
@@ -107,7 +107,7 @@ const Navbar = () => {
               clipRule="evenodd"
             ></path>
           </svg>
-          Sharan-js
+          Ketan-js
         </div>
         <ul>
           <li

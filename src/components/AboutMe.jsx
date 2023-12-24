@@ -44,7 +44,7 @@ const AboutMe = () => {
         <div className="about-box">
           <div className="about-left lg:mt-[23px]">
             <p className="about-text mt-[20px] lg:mt-[27px]">
-              Hello, i’m Sharan!
+              Hello, i’m Ketan!
             </p>
             <p className="about-text mt-[20px] lg:mt-[27px]">
               I’m a self-taught front-end developer based Bangalore. I can

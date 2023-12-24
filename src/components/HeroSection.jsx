@@ -6,7 +6,7 @@ const HeroSection = () => {
       <div className="hero-section">
         <div className="w-[350px] px-[16px] lg:w-[637px]">
           <p className="hero-text">
-            I'm Sharan <span>front-end developer</span>
+            I'm Ketan <span>front-end developer</span>
           </p>
           <p className="hero-sub-text">
             I craft responsive web application where technologies meet
@@ -17,8 +17,8 @@ const HeroSection = () => {
               <button className="contact-btn">Contact me!!</button>
             </a>
             <a
-              href="SHARAN_RESUME.pdf"
-              download="SHARAN_RESUME.pdf"
+              href="Ketan_Resume.pdf"
+              download="Ketan_Resume.pdf"
               className="contact-btn"
             >
               {`Resume`}
