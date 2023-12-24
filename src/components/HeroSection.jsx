@@ -100,7 +100,7 @@ const HeroSection = () => {
           </svg>
         </div>
         With great power comes great electricity bill
-        <div className="joke-sub-text">- Dr. Leo</div>
+        <div className="joke-sub-text">- Mr. Kitty</div>
       </div>
 
       <div className="deco-box hidden lg:block"></div>
